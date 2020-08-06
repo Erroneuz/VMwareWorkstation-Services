@@ -4,4 +4,4 @@ Batch script (services.bat) for starting and stopping VMware Workstation, plus s
 Change following services to manually start via services.msc: VMware Authorization Service, VMware DHCP Service, VMware NAT Service, VMware USB Arbitration Service & VMware Workstation Server
 Change path to vmware.exe if necessary
 
-Batch file needs to run with Administrator privileges
+Batch file needs to run with Administrator privileges - Will add check in v1.1
